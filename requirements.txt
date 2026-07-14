@@ -1,0 +1,24 @@
+# ---- Core RAG pipeline ----
+langchain-core
+langchain-chroma
+langchain-huggingface
+chromadb
+unstructured[all-docs]
+sentence-transformers
+rank-bm25
+python-dotenv
+pillow
+pytesseract
+# ---- LLM clients ----
+ollama
+groq
+# ---- Voice pipeline ----
+faster-whisper
+piper-tts
+webrtcvad
+sounddevice
+soundfile
+scipy
+numpy
+keyboard
+prompt_toolkit
